@@ -1,0 +1,54 @@
+apptools==5.1.0
+atomicwrites @ file:///D:/Psim/ptk/atomicwrites-1.4.0-py2.py3-none-any.whl
+attrs @ file:///D:/Psim/ptk/attrs-21.4.0-py2.py3-none-any.whl
+CacheControl @ file:///D:/Psim/ptk/CacheControl-0.12.10-py2.py3-none-any.whl
+cachetools @ file:///D:/Psim/ptk/pckgs/cachetools-5.1.0-py3-none-any.whl
+certifi @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/certifi-2020.4.5-py2.py3-none-any.whl
+cffi @ file:///D:/Psim/ptk/cffi-1.15.0-cp38-cp38-win_amd64.whl
+chardet @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/chardet-3.0.4-py2.py3-none-any.whl
+colorama @ file:///D:/Psim/ptk/colorama-0.4.4-py2.py3-none-any.whl
+configobj==5.0.6
+coverage @ file:///D:/Psim/ptk/coverage-6.2-cp38-cp38-win_amd64.whl
+cryptography @ file:///D:/Psim/ptk/cryptography-3.2-cp38-cp38-win_amd64.whl
+execnet @ file:///D:/Psim/ptk/execnet-1.9.0-py2.py3-none-any.whl
+frozendict @ file:///D:/Psim/ptk/pckgs/frozendict-2.3.2-cp38-cp38-win_amd64.whl
+future==0.18.2
+idna @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/idna-2.9-py2.py3-none-any.whl
+importlib-resources @ file:///D:/Psim/ptk/importlib_resources-5.7.1-py3-none-any.whl
+iniconfig @ file:///D:/Psim/ptk/iniconfig-1.1.1-py2.py3-none-any.whl
+isodate @ file:///D:/Psim/ptk/isodate-0.6.1-py2.py3-none-any.whl
+jsonpatch @ file:///D:/Psim/ptk/jsonpatch-1.32-py2.py3-none-any.whl
+jsonpointer @ file:///D:/Psim/ptk/jsonpointer-2.2-py2.py3-none-any.whl
+lxml @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/lxml-4.8.0-cp38-cp38-win_amd64.whl
+mock @ file:///D:/Psim/ptk/mock-4.0.3-py3-none-any.whl
+msgpack @ file:///D:/Psim/ptk/msgpack-1.0.3-cp38-cp38-win_amd64.whl
+numpy @ file:///D:/Psim/ptk/numpy-1.22.1-cp38-cp38-win_amd64.whl
+packaging @ file:///D:/Psim/ptk/packaging-21.3-py3-none-any.whl
+pandas @ file:///D:/Psim/ptk/pandas-1.0.0-cp38-cp38-win_amd64.whl
+pathlib2 @ file:///D:/Psim/ptk/pathlib2-2.3.6-py2.py3-none-any.whl
+pefile==2021.9.3
+pluggy @ file:///D:/Psim/ptk/pluggy-1.0.0-py2.py3-none-any.whl
+py @ file:///D:/Psim/ptk/py-1.11.0-py2.py3-none-any.whl
+pycparser @ file:///D:/Psim/ptk/pycparser-2.21-py2.py3-none-any.whl
+pyface @ file:///D:/Psim/ptk/pyface-7.4.1-py3-none-any.whl
+PyLD==2.0.3
+pyOpenSSL @ file:///D:/Psim/ptk/pyOpenSSL-20.0.0-py2.py3-none-any.whl
+pyparsing @ file:///D:/Psim/ptk/pyparsing-3.0.7-py3-none-any.whl
+pytest @ file:///D:/Psim/ptk/pytest-6.2.5-py3-none-any.whl
+pytest-cov @ file:///D:/Psim/ptk/pytest_cov-3.0.0-py3-none-any.whl
+pytest-forked @ file:///D:/Psim/ptk/pytest_forked-1.4.0-py3-none-any.whl
+pytest-pythonpath==0.7.3
+pytest-xdist @ file:///D:/Psim/ptk/pytest_xdist-2.5.0-py3-none-any.whl
+python-dateutil @ file:///D:/Psim/ptk/python_dateutil-2.8.2-py2.py3-none-any.whl
+pytz @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/pytz-2021.3-py2.py3-none-any.whl
+pywin32 @ file:///D:/Psim/ptk/pywin32-303-cp38-cp38-win_amd64.whl
+rdflib @ file:///D:/Psim/ptk/rdflib-6.1.1-py3-none-any.whl
+requests @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/requests-2.23.0-py2.py3-none-any.whl
+six @ file:///D:/Psim/ptk/six-1.16.0-py2.py3-none-any.whl
+toml @ file:///D:/Psim/ptk/toml-0.10.2-py2.py3-none-any.whl
+tomli @ file:///D:/Psim/ptk/tomli-2.0.0-py3-none-any.whl
+traits @ file:///D:/Psim/ptk/traits-6.3.2-cp38-cp38-win_amd64.whl
+traitsui @ file:///D:/Psim/ptk/traitsui-7.3.1-py3-none-any.whl
+urllib3 @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/urllib3-1.25.9-py2.py3-none-any.whl
+xlwings @ file:///C:/Users/kolesnikiy/PycharmProjects/gb/dj/pckgs_4_dj/xlwings-0.27.3-py3-none-any.whl
+zipp @ file:///D:/Psim/ptk/zipp-3.8.0-py3-none-any.whl
